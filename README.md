@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on any programming projects
 - 😄 Pronouns: she/her/hers
-- 💾 Web Portfolio: https://nagasaroghislaine3.wixsite.com/ghislainenagasaro
+- 💾 Web Portfolio: https://ghislainenagasaro.wixsite.com/ghislainenagasaro
 
 ### My Stack
 
