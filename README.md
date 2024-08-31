@@ -34,8 +34,8 @@
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghyghi)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghyghi"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghyghi&theme=github"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghyghi" alt="Languages per Repository"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghyghi&theme=github" alt="Profile Stats"/>
 
 <!---
 Ghyghi/Ghyghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
