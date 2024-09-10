@@ -34,7 +34,11 @@
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghyghi)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghyghi" alt="Languages per Repository"/>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghyghi&layout=compact)
+
+
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghyghi&theme=github" alt="Profile Stats"/>
 
 <!---
