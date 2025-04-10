@@ -11,7 +11,7 @@
 - 👨‍💻 Building things at the intersection of **creativity** and **clean architecture**
 - 🌱 Learning: `Python`, `JavaScript`, `Laravel`, and `Flutter`
 - 💼 Currently open to **collaborative projects**, **freelance work**, or just geeking out on a cool idea
-- 💡 Motto: _"Don't just ship code. Ship solutions."_
+- 💡 Motto: _"Don't crack too many eggs learning to make an omlet"_
 - 🎯 Goal: Build tools that don't just work, but **wow**
 
 ---
@@ -43,16 +43,18 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghyghi&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghyghi&theme=github-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghyghi&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghyghi&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghyghi&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghyghi&theme=github_dark" height="180" alt="Repos by Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghyghi&theme=github_dark" height="180" alt="Stats Overview"/>
 </p>
+
 
 ---
 
