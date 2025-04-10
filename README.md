@@ -3,9 +3,7 @@
 - 👀 I’m interested in Backend/Full-Stack development
 - 🌱 I’m currently learning Python, JavaScript, and Laravel
 - 💞️ I’m looking to collaborate on any programming projects
-- 😄 Pronouns: she/her/hers
-- 💾 Web Portfolio: https://ghislainenagasaro.wixsite.com/ghislainenagasaro
-- Alternate GitHub Account: https://github.com/N-Ghi
+- 💻 I'm always looking for a chance to broaden my horizons
 
 ### My Stack
 
