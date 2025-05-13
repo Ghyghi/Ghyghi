@@ -9,7 +9,7 @@
 ### 🧭 About Me
 
 - 👨‍💻 Building things at the intersection of **creativity** and **clean architecture**
-- 🌱 Learning: `Python`, `JavaScript`, `Laravel`, and `Flutter`
+<!--- 🌱 Learning: `Python`, `JavaScript`, `Laravel`, and `Flutter`--->
 - 💼 Currently open to **collaborative projects**, **freelance work**, or just geeking out on a cool idea
 - 💡 Motto: _"Don't crack too many eggs learning to make an omlet"_
 - 🎯 Goal: Build tools that don't just work, but **wow**
